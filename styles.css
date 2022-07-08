@@ -1,0 +1,13 @@
+nav a {
+    text-decoration: none;
+    border: 1px solid black;
+    margin: 3px;
+    padding: 3px;
+    background-color: grey;
+}
+nav a:visited {
+    color: black;
+}
+.currentPage {
+    background-color: red;
+}
